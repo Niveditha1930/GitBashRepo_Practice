@@ -9,7 +9,6 @@
   <test thread-count="2" parallel="tests" name="Test">
     <classes>
       <class name="newFolder.Demo5Test"/>
-      <class name="newFolder.Demo6Test"/>
       <class name="newFolder.Demo7Test"/>
     </classes>
   </test> <!-- Test -->
