@@ -8,9 +8,9 @@
 	</groups>
   <test thread-count="2" parallel="tests" name="Test">
     <classes>
+		<class name="newFolder.Demo1Test"/>
       <class name="newFolder.Demo2Test"/>
       <class name="newFolder.Demo3Test"/>
-      <class name="newFolder.Demo1Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
